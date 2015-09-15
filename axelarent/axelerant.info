@@ -1,0 +1,9 @@
+name= Axelerant Custom
+description=Custom moule to override the default functionality of drupal.
+core=7.x
+package = custom
+
+; Information added by Drupal.org packaging script on 2015-09-15
+version = "7.39"
+project = "drupal"
+datestamp = "1440020197"
